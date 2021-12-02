@@ -1,8 +1,8 @@
 ### Olá, sou Lucas Andrade Mendonça 👋
 
 <div align="center">
-  <img height="160em" width="50%" src="https://github-readme-stats.vercel.app/api?username=mendonca91&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendonca91&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" width="80%" src="https://github-readme-stats.vercel.app/api?username=mendonca91&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
